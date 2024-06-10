@@ -1,0 +1,7 @@
+weak ptr->
+
+it is nothin but here one or more than one ptr point to the one object 
+
+but it doesnot maintain reference counter
+benifit of weak pointer
+avoid deadlock condition

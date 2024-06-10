@@ -1,0 +1,4 @@
+smart ptr->
+shared ptr is used to shared one or more than one ptr in one object
+and there ref-counter is 2
+there reference-counter can be 1 

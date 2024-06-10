@@ -1,0 +1,4 @@
+unique-ptr->
+it is nothing but it will share only one pointer to the object
+
+in this ptr we can assign more than ptr but prev ptr should be deleted
