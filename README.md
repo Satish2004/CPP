@@ -1,4 +1,4 @@
-# C++ Projects Showcase
+# C++ 
 
 ## Overview
 Welcome to my repository showcasing my recent exploration of the C++ programming language. Below, you'll find a collection of basic level projects I've completed to solidify my understanding of C++ fundamentals and to apply them in practical scenarios.
